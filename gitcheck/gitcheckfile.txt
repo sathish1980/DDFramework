@@ -1,2 +1,4 @@
 sanple data
 parent class creation
+sample line 2
+
